@@ -50,6 +50,8 @@ importante su sincronización cuando tengamos varios hilos accediendo a los mism
 - https://justdigital.agency/blog/actor-model-para-construir-productos-simples-con-mejor-desempeno-y-escalabilidad/
 - https://sites.google.com/a/espe.edu.ec/programacion-ii/hilos
 
+## Video Explicativo
+El video explicativo se puede visualizar dando click [Aquí](https://www.youtube.com/watch?v=mzIFE2rNTa4)
 ## Integrantes
  - _Eric Alvarado_
  - _Rosa Palacios_
